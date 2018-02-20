@@ -1,0 +1,37 @@
+1.	Introduction
+
+•	Investigate currently used measurement systems for your application (a brief summary)
+•	Motivation…why are you measuring what you are measuring…?
+•	Is the bandwidth more than 100 Hz, why you think so…?
+
+
+
+
+
+
+
+
+
+2.	Objectives
+
+•	What are you measuring…is it within the project theme proposed (“Transportation Electrification”)?
+•	Measure ambient light and adjust headlight brightness
+•	Measure oncoming car distance and adjust light to not interfere with oncoming traffic visibility
+•	By using recommended brightness save battery power for when not needed
+
+
+
+3.	Application Specifications
+This section deals with scoping of what you will be measuring:
+•	Are you only considering certain conditions and neglecting other conditions (e.g. if you are measuring current you will measure only up to 200A)? However, your conditions have to be practical, measuring up to 200A does not make sense for freight rail. 
+•	What are your static and dynamic specifications?
+•	Anticipated accuracy of your measurement system. 
+
+
+
+
+4.	Conclusion
+Brief conclusion…
+
+References (if any…)
+Note: All this information should fit in this page (i.e. this submission will only have two pages, cover page + this current page).
